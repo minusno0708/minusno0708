@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=minusno0708&theme=matrix&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-![readme.pet](https://readme.pet/api?param=1&username=minusno0708)
+![readme.pet](https://readme.pet/api?param=3&username=minusno0708)
